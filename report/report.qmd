@@ -1,10 +1,11 @@
 ---
-title: Project Title
+title: Fat Tails, Thin Coverage: Modelling the Disclosure and Severity of Data Breach Losses in VERIS
 author:
- - Name I, First Name I
- - Name II, First Name II
- - Name III, First Name III
-institute: Name of the University
+ - Poncet, Jeannine
+ - Pasupathy, Sathya
+ - Coutinho Borlido, Diogo
+ - Ribeiro Castro Dany
+institute: HEC Lausanne
 date: today
 title-block-banner: "#0095C8" # chosen for the university of lausanne
 toc-location: right
