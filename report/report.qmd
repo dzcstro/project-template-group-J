@@ -5,7 +5,7 @@ author:
  - Pasupathy, Sathya
  - Coutinho Borlido, Diogo
  - Ribeiro Castro Dany
-institute: HEC Lausanne
+institute: HEC Lausanne, University of Lausanne
 date: today
 title-block-banner: "#0095C8" # chosen for the university of lausanne
 toc-location: right
