@@ -1,5 +1,5 @@
 ---
-title: Fat Tails, Thin Coverage: Modelling the Disclosure and Severity of Data Breach Losses in VERIS
+title: "Fat Tails, Thin Coverage: Modelling the Disclosure and Severity of Data Breach Losses in VERIS"
 author:
  - Poncet, Jeannine
  - Pasupathy, Sathya

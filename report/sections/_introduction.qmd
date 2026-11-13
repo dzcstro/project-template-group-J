@@ -3,11 +3,8 @@
 ## Project Goals
 Describe the main goals of the project, including the motivation behind the research and the key questions you aim to answer.
 
-::: {.callout-tip}
-## Writing Tip: Make it Relevant
 
-Connect your project to real-world actuarial or insurance problems. For example, if analyzing claim data, explain how your insights could improve risk assessment or pricing strategies.
-:::
+
 
 ## Research Questions
 - Question 1: ...
