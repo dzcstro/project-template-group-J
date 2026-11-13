@@ -1,26 +1,15 @@
 # Introduction
 
 ## Project Goals
-Describe the main goals of the project, including the motivation behind the research and the key questions you aim to answer.
-
-
-
+Data breaches represent a major source of financial risk for firms and insurance providers. From an actuarial perspective, modelling the severity of these incidents is essential to quantifying cyber risk and assessing potential insured losses. However, estimating their financial severity is particularly challenging because most organizations do not publicly disclose the financial losses associated with these data breaches. 
+Our project focusses on the VERIS Community Database (VCDB), which is one of the largest public sources on breaches. It contains information on 10596 publicly reported incidents and 2683 variables describing their characteristics. Among these data breaches, only around 337 (approximately 3.2%) include a reported monetary loss.  This raises an important statistical issue because the incidents for which financial losses are available may not be representative of all the reported breaches.
+The main objective of our project is to investigate which characteristics of data breaches are associated with monetary losses disclosure and to understand how this limited financial information affects the estimation of loss severity. As a secondary objective, we aim to explore whether reported monetary losses can be predicted using statistical methods, while taking into account the limitations of the dataset.
 
 ## Research Questions
-- Question 1: ...
-- Question 2: ...
-- (Add as necessary)
-
-::: {.callout-important}
-## Research Question Quality
-
-Good research questions are:
-
-- **Specific**: Clearly defined and focused
-- **Measurable**: Can be answered with data
-- **Relevant**: Connected to the project goals
-- **Feasible**: Can be addressed with available data and methods
-:::
+- Question 1: How do data breach characteristics and monetary loss disclosure rates vary across industry sectors, breach methods and time?
+- Question 2: Which incident characteristics are associated with loss disclosure and to what extent can the disclosure event be predicted?
+- Question 3: How does reported financial losses vary across industry sectors, and to what extend can their severity be predicted using the available data?
+- Question 4: How does the limited availability of financial loss information affect the reliability of loss severity estimates?
 
 ## Related Work
 
